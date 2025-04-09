@@ -11,7 +11,8 @@ class Fallout:
     def rain(self):
         print("o", end='')
 
-
+for i in range(5):
+    print(5)
 
 class Controller:
     def __init__(self):

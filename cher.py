@@ -14,6 +14,9 @@ class Megalith:
     def median(self):
         a = sorted(self.data)
         return a[len(a) // 2]
+    
+for i in "Lololol":
+    print(i)
 
 
 
